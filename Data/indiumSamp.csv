@@ -1,0 +1,111 @@
+Start_Location,End_Location,Start_Time,End_Time,Trip_Duration(min),Driver_Name,Driver_Score,Average_Speed(km/h),Impact,Driving_Violations,Vehicle_Health,Trip_Date
+Southbank,Kensington,2022-10-14 01:52:10,2022-10-14 03:36:10,104.0,Brooke Fox,3.51,77.65,True,True,Okay,2022-10-14
+South Wharf,East Melbourne,2021-05-04 20:39:38,2021-05-04 20:47:38,8.0,Danielle Knight,3.03,27.76,True,False,Good,2021-05-04
+Southbank,South Wharf,2023-06-15 06:29:27,2023-06-15 08:15:27,106.0,Christopher Kim,2.14,64.09,True,True,Good,2023-06-15
+West Melbourne,North Melbourne,2021-08-23 02:25:25,2021-08-23 03:57:25,92.0,Olivia Pugh,3.66,113.05,True,True,Urgent,2021-08-23
+Carlton,East Melbourne,2021-07-14 00:14:14,2021-07-14 00:26:14,12.0,Kim Spencer,3.67,103.11,False,False,Okay,2021-07-14
+Docklands,North Melbourne,2022-06-18 13:20:16,2022-06-18 14:37:16,77.0,Carrie Glover,2.19,73.77,True,True,Okay,2022-06-18
+Kensington,Parkville,2021-03-03 21:01:56,2021-03-03 21:52:56,51.0,Susan Brown,3.33,42.5,True,True,Okay,2021-03-03
+North Melbourne,South Wharf,2020-09-15 21:14:09,2020-09-15 21:58:09,44.0,April Johns,1.51,91.88,False,False,Okay,2020-09-15
+North Melbourne,Kensington,2022-03-13 20:36:10,2022-03-13 22:06:10,90.0,Ryan Kaufman,1.95,110.78,True,True,Good,2022-03-13
+South Wharf,Southbank,2020-07-31 16:05:13,2020-07-31 16:30:13,25.0,Michael Miller,3.04,23.91,False,False,Okay,2020-07-31
+Southbank,North Melbourne,2020-01-20 07:59:27,2020-01-20 09:15:27,76.0,Robert Wilson,1.78,51.58,True,True,Urgent,2020-01-20
+Parkville,Southbank,2020-10-13 04:33:46,2020-10-13 06:24:46,111.0,Sierra Bryant,3.9,45.0,True,True,Urgent,2020-10-13
+East Melbourne,Southbank,2022-07-12 20:01:24,2022-07-12 21:33:24,92.0,Amber Hernandez,2.54,23.64,True,False,Urgent,2022-07-12
+Port Melbourne,Docklands,2021-08-05 04:42:20,2021-08-05 06:10:20,88.0,Elizabeth Brown,4.75,117.14,False,False,Urgent,2021-08-05
+Kensington,West Melbourne,2022-08-03 14:20:20,2022-08-03 15:24:20,64.0,Kevin Gordon,4.52,55.36,True,True,Urgent,2022-08-03
+Carlton,Docklands,2021-03-13 09:41:36,2021-03-13 11:03:36,82.0,Karen Smith,3.51,43.95,True,True,Good,2021-03-13
+Parkville,West Melbourne,2020-12-08 09:41:24,2020-12-08 09:52:24,11.0,Andre Wright,4.91,98.1,True,True,Good,2020-12-08
+South Wharf,Port Melbourne,2021-05-27 19:33:39,2021-05-27 20:49:39,76.0,Amy Hernandez,3.87,73.09,False,True,Okay,2021-05-27
+Docklands,Southbank,2022-06-22 23:38:44,2022-06-23 00:28:44,50.0,Jennifer Park,2.52,58.87,False,False,Urgent,2022-06-22
+Docklands,West Melbourne,2023-06-13 18:47:24,2023-06-13 20:38:24,111.0,Micheal Johnson,1.92,94.59,False,True,Good,2023-06-13
+Docklands,Southbank,2023-02-18 17:00:21,2023-02-18 17:45:21,45.0,Jessica Tyler,4.75,39.95,True,True,Good,2023-02-18
+Southbank,East Melbourne,2020-01-16 20:39:35,2020-01-16 21:11:35,32.0,Lawrence Day,4.73,105.09,False,True,Okay,2020-01-16
+South Wharf,Docklands,2023-02-11 21:38:02,2023-02-11 22:56:02,78.0,Karen Hall,2.81,42.53,False,False,Good,2023-02-11
+Parkville,Docklands,2022-07-29 05:49:12,2022-07-29 07:31:12,102.0,Kari Burns,4.3,58.22,True,True,Good,2022-07-29
+Kensington,Parkville,2020-04-30 01:04:12,2020-04-30 01:49:12,45.0,Samantha Graham,2.87,25.46,False,True,Urgent,2020-04-30
+North Melbourne,East Melbourne,2020-08-23 22:10:06,2020-08-23 23:41:06,91.0,Billy Dawson,4.36,105.85,True,False,Good,2020-08-23
+Southbank,Port Melbourne,2022-11-23 12:47:09,2022-11-23 14:44:09,117.0,Stephanie Fleming,2.31,63.69,True,True,Okay,2022-11-23
+Port Melbourne,Docklands,2022-01-27 08:29:40,2022-01-27 10:12:40,103.0,Gordon White,4.59,49.68,False,True,Good,2022-01-27
+East Melbourne,West Melbourne,2021-09-03 22:45:12,2021-09-03 23:37:12,52.0,Michelle Morgan,1.28,102.15,False,True,Good,2021-09-03
+Southbank,Carlton,2021-11-03 04:32:34,2021-11-03 05:54:34,82.0,Kevin Burke,1.65,101.09,False,False,Good,2021-11-03
+Carlton,Port Melbourne,2021-11-24 13:32:13,2021-11-24 15:06:13,94.0,Travis Alexander,3.11,28.88,True,True,Okay,2021-11-24
+South Wharf,Port Melbourne,2020-03-26 10:42:15,2020-03-26 12:39:15,117.0,Shari Olson,4.08,52.17,True,False,Urgent,2020-03-26
+Port Melbourne,West Melbourne,2021-09-16 14:04:20,2021-09-16 14:25:20,21.0,Emma Williams,4.36,91.82,True,True,Urgent,2021-09-16
+South Wharf,Parkville,2022-07-14 22:57:29,2022-07-14 23:14:29,17.0,Lance Shah,4.0,97.78,True,False,Okay,2022-07-14
+Docklands,West Melbourne,2022-12-02 19:53:42,2022-12-02 21:01:42,68.0,Raymond Hall,4.61,55.96,True,True,Good,2022-12-02
+Port Melbourne,Kensington,2023-06-24 05:17:34,2023-06-24 05:54:34,37.0,Diana Washington,1.94,97.04,False,False,Good,2023-06-24
+Southbank,South Wharf,2022-09-06 21:48:47,2022-09-06 22:13:47,25.0,Michele Mason,1.2,70.72,False,True,Okay,2022-09-06
+North Melbourne,Southbank,2021-07-17 10:43:06,2021-07-17 11:42:06,59.0,Wendy Miranda,2.44,38.75,True,True,Urgent,2021-07-17
+Parkville,North Melbourne,2020-08-06 02:39:55,2020-08-06 03:18:55,39.0,Jacob Martinez,4.05,35.76,False,True,Urgent,2020-08-06
+Parkville,Kensington,2021-10-07 19:55:42,2021-10-07 21:25:42,90.0,Jennifer Sullivan,1.57,30.67,False,False,Urgent,2021-10-07
+South Wharf,North Melbourne,2020-09-10 04:13:13,2020-09-10 04:25:13,12.0,Kelly Morris,3.19,39.44,False,True,Good,2020-09-10
+Kensington,Port Melbourne,2021-06-13 11:06:28,2021-06-13 11:24:28,18.0,Scott Morales,1.14,24.55,True,False,Good,2021-06-13
+West Melbourne,Docklands,2020-09-08 12:11:04,2020-09-08 12:40:04,29.0,Derek Day,2.61,118.87,True,True,Good,2020-09-08
+Docklands,South Wharf,2020-05-13 20:45:59,2020-05-13 21:18:59,33.0,Steven Miller,3.66,42.16,False,True,Urgent,2020-05-13
+South Wharf,West Melbourne,2021-09-14 21:04:49,2021-09-14 21:35:49,31.0,Elizabeth Scott,3.39,104.15,True,True,Urgent,2021-09-14
+South Wharf,East Melbourne,2021-03-26 23:27:26,2021-03-27 00:31:26,64.0,Larry Boyer,1.35,53.67,False,True,Good,2021-03-26
+Southbank,Parkville,2022-06-22 20:34:09,2022-06-22 21:39:09,65.0,George Jordan,4.25,27.56,True,False,Okay,2022-06-22
+Southbank,East Melbourne,2021-08-11 19:59:53,2021-08-11 21:27:53,88.0,Grant Adams,1.66,111.06,True,True,Okay,2021-08-11
+Docklands,Parkville,2020-09-06 02:55:41,2020-09-06 03:54:41,59.0,Veronica Sharp,2.56,63.42,False,False,Good,2020-09-06
+Docklands,East Melbourne,2020-08-27 10:39:28,2020-08-27 11:57:28,78.0,Kelly Love,2.18,85.33,False,False,Good,2020-08-27
+East Melbourne,Carlton,2022-04-10 20:16:14,2022-04-10 20:33:14,17.0,Jeremy Becker,1.41,31.29,True,False,Urgent,2022-04-10
+Carlton,East Melbourne,2021-01-17 16:00:26,2021-01-17 16:21:26,21.0,Daniel Johnson,3.83,28.4,False,False,Okay,2021-01-17
+Kensington,East Melbourne,2022-04-24 08:46:16,2022-04-24 09:25:16,39.0,Nancy Smith,3.29,69.63,False,True,Urgent,2022-04-24
+South Wharf,North Melbourne,2022-03-07 12:57:38,2022-03-07 14:01:38,64.0,Jeffrey Hughes,2.49,86.69,True,False,Urgent,2022-03-07
+East Melbourne,South Wharf,2022-04-28 02:45:18,2022-04-28 03:22:18,37.0,James Payne,3.89,51.17,True,False,Urgent,2022-04-28
+Kensington,Port Melbourne,2020-07-22 17:56:49,2020-07-22 18:37:49,41.0,Zachary Lester,2.87,38.81,False,False,Okay,2020-07-22
+West Melbourne,Parkville,2021-12-14 04:19:32,2021-12-14 05:22:32,63.0,Michael Bullock,3.2,37.61,False,True,Okay,2021-12-14
+South Wharf,Carlton,2020-01-24 07:18:24,2020-01-24 07:36:24,18.0,Diane Mcgee,4.14,72.57,False,False,Okay,2020-01-24
+North Melbourne,Southbank,2020-01-17 18:45:11,2020-01-17 19:42:11,57.0,Brandi Roberson,1.82,47.11,False,False,Good,2020-01-17
+West Melbourne,Docklands,2020-03-31 14:03:20,2020-03-31 14:42:20,39.0,Ashley Hernandez,3.18,21.75,False,True,Okay,2020-03-31
+Docklands,Carlton,2023-06-24 04:45:18,2023-06-24 06:09:18,84.0,Jasmine Ritter,4.5,48.41,False,False,Urgent,2023-06-24
+North Melbourne,South Wharf,2020-12-03 15:01:09,2020-12-03 15:56:09,55.0,Jonathan Oneal,2.39,97.66,False,True,Okay,2020-12-03
+East Melbourne,Port Melbourne,2021-05-18 13:30:59,2021-05-18 15:27:59,117.0,Charles Colon,4.64,89.86,True,False,Urgent,2021-05-18
+Kensington,Southbank,2023-04-18 08:26:25,2023-04-18 09:36:25,70.0,Patricia Rowe,2.29,49.99,False,True,Okay,2023-04-18
+Parkville,West Melbourne,2021-06-26 03:54:26,2021-06-26 04:39:26,45.0,Robert Duncan,2.19,88.55,True,True,Okay,2021-06-26
+East Melbourne,Carlton,2023-02-15 02:14:40,2023-02-15 02:50:40,36.0,Samantha Choi,4.96,114.42,True,False,Okay,2023-02-15
+North Melbourne,Carlton,2021-02-12 07:09:01,2021-02-12 08:44:01,95.0,Jennifer Lee,1.01,69.05,True,False,Okay,2021-02-12
+East Melbourne,North Melbourne,2020-07-20 00:38:53,2020-07-20 02:36:53,118.0,Daniel Sims,4.99,107.88,False,True,Okay,2020-07-20
+Parkville,Port Melbourne,2020-07-20 06:24:30,2020-07-20 06:44:30,20.0,Christopher Hamilton,1.05,26.12,True,True,Okay,2020-07-20
+Carlton,West Melbourne,2022-04-02 15:28:00,2022-04-02 15:45:00,17.0,Andrew Richards DDS,1.05,53.28,False,False,Urgent,2022-04-02
+Carlton,Parkville,2020-03-29 14:26:09,2020-03-29 16:23:09,117.0,William Erickson,1.81,52.94,True,False,Okay,2020-03-29
+North Melbourne,Southbank,2020-01-28 22:03:12,2020-01-28 23:01:12,58.0,Danielle Garcia,3.85,68.91,True,True,Okay,2020-01-28
+Kensington,Carlton,2020-11-26 22:04:19,2020-11-26 22:15:19,11.0,Karen Stephens,3.5,46.64,True,False,Urgent,2020-11-26
+West Melbourne,East Melbourne,2020-02-10 15:40:53,2020-02-10 16:25:53,45.0,Jaime Stevens,3.75,97.15,True,False,Good,2020-02-10
+Port Melbourne,Docklands,2023-01-21 21:27:28,2023-01-21 22:22:28,55.0,Nathan Miller,1.98,76.32,False,True,Good,2023-01-21
+Port Melbourne,Kensington,2021-03-28 11:18:46,2021-03-28 11:33:46,15.0,David Valdez,4.36,61.72,True,False,Urgent,2021-03-28
+Docklands,East Melbourne,2021-09-01 03:39:33,2021-09-01 04:56:33,77.0,Donald Bates,2.29,100.32,True,True,Okay,2021-09-01
+East Melbourne,South Wharf,2021-10-18 01:21:22,2021-10-18 01:43:22,22.0,Gerald Barnes,4.61,114.89,True,True,Okay,2021-10-18
+North Melbourne,Kensington,2020-04-26 01:08:43,2020-04-26 01:54:43,46.0,Nicole Blair,2.45,83.15,False,False,Okay,2020-04-26
+Kensington,East Melbourne,2020-04-29 10:47:23,2020-04-29 11:52:23,65.0,Aaron Smith,1.35,77.58,True,False,Urgent,2020-04-29
+West Melbourne,North Melbourne,2020-12-02 16:40:31,2020-12-02 17:30:31,50.0,Tracy Decker,4.56,97.65,True,True,Urgent,2020-12-02
+East Melbourne,Parkville,2023-05-18 14:38:03,2023-05-18 15:41:03,63.0,Morgan Davis,3.98,117.47,True,True,Okay,2023-05-18
+East Melbourne,Docklands,2021-05-18 03:39:14,2021-05-18 05:19:14,100.0,Laura Roberts,3.89,25.2,True,False,Good,2021-05-18
+East Melbourne,Southbank,2021-02-11 03:31:22,2021-02-11 04:34:22,63.0,Miss Patricia Weaver,1.31,58.41,False,False,Good,2021-02-11
+Docklands,Southbank,2020-04-09 20:17:19,2020-04-09 21:26:19,69.0,Angela Ryan,2.89,55.88,False,False,Good,2020-04-09
+Kensington,Port Melbourne,2021-10-09 00:12:38,2021-10-09 00:17:38,5.0,Shawn Campbell,3.87,55.24,True,False,Good,2021-10-09
+Kensington,South Wharf,2021-08-22 14:04:07,2021-08-22 15:21:07,77.0,Jose Joseph,4.68,20.66,True,False,Okay,2021-08-22
+North Melbourne,Port Melbourne,2020-04-08 01:46:17,2020-04-08 03:01:17,75.0,Dr. Micheal Atkinson,4.41,78.05,True,True,Okay,2020-04-08
+Port Melbourne,North Melbourne,2022-08-11 11:50:01,2022-08-11 13:38:01,108.0,Robert Thomas PhD,2.87,20.73,False,True,Urgent,2022-08-11
+Port Melbourne,South Wharf,2023-01-29 21:07:06,2023-01-29 22:19:06,72.0,John Reyes,2.46,59.17,False,True,Good,2023-01-29
+Carlton,West Melbourne,2022-06-28 04:06:28,2022-06-28 06:01:28,115.0,John Davis,1.08,55.3,False,True,Good,2022-06-28
+West Melbourne,Carlton,2021-09-07 09:33:05,2021-09-07 11:26:05,113.0,Jack Hall,4.3,39.77,False,True,Good,2021-09-07
+Port Melbourne,Kensington,2020-04-29 17:48:09,2020-04-29 18:46:09,58.0,Emily Hamilton,1.64,60.27,False,False,Urgent,2020-04-29
+East Melbourne,South Wharf,2020-09-24 15:11:46,2020-09-24 16:21:46,70.0,Mrs. Rebecca Bender,4.71,30.22,True,False,Urgent,2020-09-24
+West Melbourne,Kensington,2021-06-27 21:10:33,2021-06-27 21:45:33,35.0,Christopher Price,3.5,78.17,False,False,Okay,2021-06-27
+Docklands,Parkville,2020-08-09 22:43:35,2020-08-09 23:38:35,55.0,Whitney Ramirez,3.72,31.78,True,True,Good,2020-08-09
+West Melbourne,South Wharf,2021-05-26 04:05:54,2021-05-26 05:12:54,67.0,Jeremiah Shaffer,4.5,114.15,True,True,Good,2021-05-26
+Southbank,Port Melbourne,2022-05-20 15:06:21,2022-05-20 15:51:21,45.0,Amy Dodson,2.09,36.13,False,True,Good,2022-05-20
+Port Melbourne,Docklands,2023-01-27 19:24:49,2023-01-27 21:04:49,100.0,Kelly Young,2.64,56.81,False,True,Good,2023-01-27
+Carlton,East Melbourne,2020-11-29 23:22:03,2020-11-30 00:37:03,75.0,Marcus Sexton,3.42,33.87,True,False,Good,2020-11-29
+West Melbourne,Parkville,2022-03-07 16:07:54,2022-03-07 17:37:54,90.0,Mitchell Morales,1.07,88.15,False,False,Urgent,2022-03-07
+South Wharf,Kensington,2023-05-11 04:48:42,2023-05-11 04:58:42,10.0,Donna Phillips,3.13,91.46,True,True,Okay,2023-05-11
+South Wharf,Docklands,2020-08-26 06:24:40,2020-08-26 06:59:40,35.0,Diane Smith,1.41,26.97,False,False,Okay,2020-08-26
+West Melbourne,North Melbourne,2023-04-24 13:35:23,2023-04-24 14:59:23,84.0,Kathryn Graham,1.7,89.03,True,True,Okay,2023-04-24
+East Melbourne,Kensington,2023-07-19 04:43:53,2023-07-19 05:17:53,34.0,Aaron Brown,2.06,76.67,True,False,Good,2023-07-19
+Kensington,Parkville,2020-01-26 08:38:04,2020-01-26 08:54:04,16.0,Mason Smith,4.33,66.26,True,True,Urgent,2020-01-26
+Southbank,West Melbourne,2022-08-15 05:43:18,2022-08-15 06:03:18,20.0,David Bailey,2.4,104.86,True,True,Good,2022-08-15
+Carlton,North Melbourne,2022-02-07 08:48:25,2022-02-07 09:46:25,58.0,Brittany Matthews,4.6,90.93,True,False,Okay,2022-02-07
+East Melbourne,Kensington,2023-06-24 04:25:15,2023-06-24 05:14:15,49.0,Joy Nguyen,3.94,61.82,True,True,Okay,2023-06-24
+Port Melbourne,West Melbourne,2020-10-22 01:46:24,2020-10-22 01:54:24,8.0,Emma Larson,3.67,99.88,False,True,Okay,2020-10-22
