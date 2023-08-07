@@ -29,6 +29,16 @@ def data_gen(n=110):
         impact = bool(random.getrandbits(1))
         violations = bool(random.getrandbits(1)) 
 
+        # Adjusting driver's score based on violations and impact
+
+        if impact:
+            driver_score = driver_score - (driver_score * 0.10) # Decrease score by 10% for impact
+        if violations:
+            driver_score = driver_score - (driver_score * 0.05) # Decrease score by 2.5% for violation
+
+        # Make sure the score does not fall below 0
+        driver_score = round(max(0, driver_score), 2)
+
         vehincle_health_perc = round(random.uniform(0, 100), 2) # Vehicle health as a percentage
         if vehincle_health_perc >= 70:
             vehicle_health = 'Good'
