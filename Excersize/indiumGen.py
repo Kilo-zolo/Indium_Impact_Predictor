@@ -1,6 +1,6 @@
-import pandas as pd
-import random
 from faker import Faker
+import random
+import pandas as pd
 from datetime import timedelta
 
 # Initialize a Faker instance from Australia
@@ -9,6 +9,16 @@ fake = Faker('en_AU')
 # Pre-defined locations in Melbourne, Victoria
 loc = ['Carlton', 'Docklands', 'East Melbourne', 'Kensington', 'North Melbourne',
         'Parkville', 'Southbank', 'West Melbourne', 'Port Melbourne', 'South Wharf']
+
+def impact_probability(driver_score, avg_speed):
+    # Impact probability based on driver score (lower score leads to higher probability)
+    prob_driver_score = (5 - driver_score) * 0.15
+
+    # Impact probability based on average speed (higher speed leads to higher probability)
+    prob_avg_speed = (avg_speed - 20) * 0.01
+
+    # Combine both probabilities
+    return prob_driver_score + prob_avg_speed
 
 def data_gen(n=110):
     data = []
@@ -26,15 +36,17 @@ def data_gen(n=110):
         driver_score = round(random.uniform(1, 5), 2) # Random driver score between 1-5
         avg_speed = round(random.uniform(20, 120), 2) # Random avg speed between 20kmph-120kmph
 
-        impact = bool(random.getrandbits(1))
+        # Calculate impact based on the probability function
+        impact_prob = impact_probability(driver_score, avg_speed)
+        impact = random.random() < impact_prob
+
         violations = bool(random.getrandbits(1)) 
 
         # Adjusting driver's score based on violations and impact
-
         if impact:
             driver_score = driver_score - (driver_score * 0.10) # Decrease score by 10% for impact
         if violations:
-            driver_score = driver_score - (driver_score * 0.05) # Decrease score by 2.5% for violation
+            driver_score = driver_score - (driver_score * 0.05) # Decrease score by 5% for violation
 
         # Make sure the score does not fall below 0
         driver_score = round(max(0, driver_score), 2)
@@ -61,7 +73,9 @@ def data_gen(n=110):
     
 df = data_gen()
 
+# Saving the data (You can update the paths accordingly)
 df.to_csv('./Data/indiumSamp.csv', index=False)
 df.to_excel('./Data/indiumSamp.xlsx', index=False)
 
-
+# Returning a preview of the data
+df.head()
